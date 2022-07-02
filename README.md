@@ -1,5 +1,5 @@
-# QRStealer
-A Discord Token QR Stealer Written In C#
+# Discord QR Stealer
+A program that automatically generates a Nitro scam QR code and grabs the Discord token when scanned.
 
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/extatent/QRStealer?style=flat-square" </a>
