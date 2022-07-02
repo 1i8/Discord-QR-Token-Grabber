@@ -1,5 +1,5 @@
 # QRStealer
-A Discord token QR stealer written in C#
+A Discord Token QR Stealer Written In C#
 
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/extatent/QRStealer?style=flat-square" </a>
