@@ -20,6 +20,10 @@ A Discord token QR stealer written in C#
 <img src="https://i.imgur.com/dpa3KvB.png" alt="png">
   
 <img src="https://i.imgur.com/Kv2hqyn.png" alt="png">
+
+<img src="https://i.imgur.com/i0iT2FN.png" alt="png">
+
+<img src="https://i.imgur.com/tL1hFtJ.png" alt="png">
 </details>
   
 ## Installation 
