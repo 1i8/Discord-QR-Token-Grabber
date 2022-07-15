@@ -1,9 +1,0 @@
-C:\Users\User\Desktop\QRStealer\QRStealer\bin\Debug\QRStealer.exe
-C:\Users\User\Desktop\QRStealer\QRStealer\bin\Debug\QRStealer.pdb
-C:\Users\User\Desktop\QRStealer\QRStealer\bin\Debug\SeleniumExtras.WaitHelpers.dll
-C:\Users\User\Desktop\QRStealer\QRStealer\bin\Debug\WebDriver.dll
-C:\Users\User\Desktop\QRStealer\QRStealer\obj\Debug\QRStealer.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\QRStealer\QRStealer\obj\Debug\QRStealer.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\QRStealer\QRStealer\obj\Debug\QRStealer.csproj.CopyComplete
-C:\Users\User\Desktop\QRStealer\QRStealer\obj\Debug\QRStealer.exe
-C:\Users\User\Desktop\QRStealer\QRStealer\obj\Debug\QRStealer.pdb
