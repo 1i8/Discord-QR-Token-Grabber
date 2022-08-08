@@ -18,8 +18,6 @@ A program that automatically generates a nitro scam QR code and grabs the Discor
 <details>
 <summary>Preview</summary>
 <img src="https://i.imgur.com/3e07DU3.png" alt="png">
-
-https://user-images.githubusercontent.com/51336140/179244968-8ed3ebfc-a315-4f97-a959-957c40d7dafc.mp4
 </details>
   
 ## Usage
