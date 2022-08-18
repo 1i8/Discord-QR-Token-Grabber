@@ -9,8 +9,12 @@
 ---
 
 > If you like the project, consider dropping a star ⭐
-  
-> If you caught any issues, please report it in [issues](https://github.com/extatent/Discord-QR-Token-Grabber/issues) or in our [Discord server](https://dsc.gg/extatent)
+
+> If you caught any issues, please report it in [issues](https://github.com/extatent/Discord-QR-Token-Grabber/issues) or in our [Discord server](https://dsc.gg/extatent) (Specify **"QR Grabber"** in the ticket)
+
+> Tickets like **"how to use"**, **"I need help"**, **"not working"** will be ignored and deleted. Provide specific information.
+
+> Become a contributor by forking the project and opening a new pull request or [suggest new features](https://dsc.gg/extatent).
 
 <details>
 <summary>Preview</summary>
